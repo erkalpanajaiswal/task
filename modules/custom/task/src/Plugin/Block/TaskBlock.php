@@ -26,7 +26,7 @@ class TaskBlock extends BlockBase implements ContainerFactoryPluginInterface{
   protected $configFactory;
 
   /**
-   * Creates a SystemBrandingBlock instance.
+   * Creates a Block instance.
    *
    * @param array $configuration
    *   A configuration array containing information about the plugin instance.

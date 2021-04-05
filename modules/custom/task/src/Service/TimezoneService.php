@@ -18,7 +18,7 @@ class TimezoneService implements TrustedCallbackInterface {
   protected $configFactory;
 
   /**
-   * Creates a SystemBrandingBlock instance.
+   * Creates a instance.
    * @param \Drupal\Core\Config\ConfigFactoryInterface $config_factory
    *   The factory for configuration objects.
    */
